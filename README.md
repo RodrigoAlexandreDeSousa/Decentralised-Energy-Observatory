@@ -192,8 +192,8 @@ O código vive num repositório privado e o acesso à aplicação é gated. Para
 
 ## Sobre
 
-Projeto desenvolvido por **Rodrigo de Sousa** com o Grupo 14 do PFACD (ISCTE-IUL), em
-parceria com a E-Redes. Open to discussion para oportunidades de estágio, consultoria
-de dados no setor energético ou licenciamento da plataforma.
+Projeto desenvolvido por **Rodrigo de Sousa** com o Grupo 14 do PFACD (ISCTE-IUL),
+ano letivo 2025/2026, em parceria com a E-Redes. Open to discussion para oportunidades
+de estágio, consultoria de dados no setor energético ou licenciamento da plataforma.
 
 · [LinkedIn](https://www.linkedin.com/) · ✉ rodrigoarcsousa@gmail.com
